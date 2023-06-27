@@ -1,0 +1,16 @@
+.cursor {
+  width: 62px; // Taille du cercle
+  height: 62px;  // Taille du cercle
+  border: 1px solid $color-2;
+  border-radius: 50%;  // Pour avoir une forme de cercle
+  position: absolute;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+  transition: 500ms ease-out;
+  z-index: 2;
+  backdrop-filter: brightness(115%);
+}
+.cursor.hovered {
+  width: 30px;  // Taille du cercle
+  height: 30px;  // Taille du cercle
+}
