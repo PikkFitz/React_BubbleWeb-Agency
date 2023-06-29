@@ -2,7 +2,7 @@ export const projectsData = [
   {
     id: 1,
     title: "Casta",
-    date: "Janvier 2020",
+    date: "Janvier 2023",
     languages: ["React", "Php", "Sass"],
     infos:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas cumque labore suscipit, pariatur laboriosam autem omnis saepe quisquam enim iste.",
@@ -12,7 +12,7 @@ export const projectsData = [
   {
     id: 2,
     title: "Lyon Béton",
-    date: "Mars 2020",
+    date: "Mars 2023",
     languages: ["Symfony", "Vue"],
     infos:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas cumque labore suscipit, pariatur laboriosam autem omnis saepe quisquam enim iste.",
@@ -22,7 +22,7 @@ export const projectsData = [
   {
     id: 3,
     title: "Everpost",
-    date: "Avril 2020",
+    date: "Avril 2023",
     languages: ["Wordpress", "Php", "React"],
     infos:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas cumque labore suscipit, pariatur laboriosam autem omnis saepe quisquam enim iste.",
@@ -32,7 +32,7 @@ export const projectsData = [
   {
     id: 4,
     title: "Creative Dev",
-    date: "Juillet 2020",
+    date: "Juillet 2023",
     languages: ["Vue", "Php"],
     infos:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas cumque labore suscipit, pariatur laboriosam autem omnis saepe quisquam enim iste.",

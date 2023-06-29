@@ -76,7 +76,7 @@ const Contact = () => {
                 </div>
                 <SocialNetwork />
                 <div className="credits">
-                    <p>BubbleWeb<sup><i class="fa-regular fa-copyright fa-2xs"></i></sup> 2023</p>
+                    <p>BubbleWeb<sup><i className="fa-regular fa-copyright fa-2xs"></i></sup> 2023</p>
                 </div>
             </div>
             <Buttons left={"/projet-4"} /> {/* props */}
